@@ -1,6 +1,5 @@
-- 👋 Olá, Eu sou o Rodrigo! Também conhecido como Rocha!
-- 👀 Estou interessado em desenvolvimento com Java, Spring e AWS;
-- :book: Ando lendo/estudando os livros Oracle Certified Professional Java SE 11 Developer e Effective Java;
+- 👋 Olá, Eu sou o Rodrigo! Mais conhecido como **Rocha**!
+- 👀 Sou interessado em desenvolvimento com Kotlin, Java, Python, mas não JavaScript;
 - 📫 Olha aqui meu [LinkedIn](https://www.linkedin.com/in/rochards/).
 
 <!---
